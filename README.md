@@ -7,3 +7,4 @@ Run the `simple-interest.sh` file and follow the prompts to calculate simple int
 
 ## License
 This project is licensed under the Apache 2.0 License.
+This repository is part of the Coursera project.
